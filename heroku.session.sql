@@ -1,0 +1,3 @@
+-- CREATE TABLE frases(
+--     frases TEXT NOT NULL
+-- );

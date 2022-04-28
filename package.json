@@ -1,0 +1,22 @@
+{
+  "name": "biscoito-desmotivador",
+  "version": "1.0.0",
+  "description": "Projeto didático",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Bianca",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "init": "^0.1.2",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3"
+  }
+}
